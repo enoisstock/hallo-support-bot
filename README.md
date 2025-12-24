@@ -1,4 +1,4 @@
-https://github.com/enoisstock/hallo-support-bot
+https://enoisstock.github.io/hallo-support-bot/
 
 In .env dass () durch api key ersetzen
 
